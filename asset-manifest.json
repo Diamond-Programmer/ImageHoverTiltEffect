@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ImageHoverTiltEffect/static/css/main.a828183a.chunk.css",
+    "main.js": "/ImageHoverTiltEffect/static/js/main.7f87f5dc.chunk.js",
+    "main.js.map": "/ImageHoverTiltEffect/static/js/main.7f87f5dc.chunk.js.map",
+    "runtime-main.js": "/ImageHoverTiltEffect/static/js/runtime-main.665c88a2.js",
+    "runtime-main.js.map": "/ImageHoverTiltEffect/static/js/runtime-main.665c88a2.js.map",
+    "static/js/2.27629217.chunk.js": "/ImageHoverTiltEffect/static/js/2.27629217.chunk.js",
+    "static/js/2.27629217.chunk.js.map": "/ImageHoverTiltEffect/static/js/2.27629217.chunk.js.map",
+    "static/js/3.4b463eff.chunk.js": "/ImageHoverTiltEffect/static/js/3.4b463eff.chunk.js",
+    "static/js/3.4b463eff.chunk.js.map": "/ImageHoverTiltEffect/static/js/3.4b463eff.chunk.js.map",
+    "index.html": "/ImageHoverTiltEffect/index.html",
+    "static/css/main.a828183a.chunk.css.map": "/ImageHoverTiltEffect/static/css/main.a828183a.chunk.css.map",
+    "static/js/2.27629217.chunk.js.LICENSE.txt": "/ImageHoverTiltEffect/static/js/2.27629217.chunk.js.LICENSE.txt",
+    "static/media/background-3628553.e3d74685.jpg": "/ImageHoverTiltEffect/static/media/background-3628553.e3d74685.jpg",
+    "static/media/logo.6ce24c58.svg": "/ImageHoverTiltEffect/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.665c88a2.js",
+    "static/js/2.27629217.chunk.js",
+    "static/css/main.a828183a.chunk.css",
+    "static/js/main.7f87f5dc.chunk.js"
+  ]
+}
